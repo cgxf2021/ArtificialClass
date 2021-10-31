@@ -1,0 +1,2 @@
+# ArtificialClass
+The Class Script
